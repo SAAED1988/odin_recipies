@@ -1,4 +1,4 @@
-I'll create a new Recipies Webpage with a Main Index.html which will have links to a few recipies
+I'll create a new Recipies Webpage with a Main Index.html which will have links to a few recipes
 
 
-# odin_recipies
+# odin_recipes
